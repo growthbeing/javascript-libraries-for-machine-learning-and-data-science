@@ -1,4 +1,4 @@
-## JavaScript libraries for Machine Learning and Data Science
+## JavaScript libraries for Machine Learning and Data Science :brain:
 
 List of JavaScript libraries that can be used for machine learning and data science
 
